@@ -1,0 +1,13 @@
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\GitHubIssueClassification.deps.json
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\GitHubIssueClassification.runtimeconfig.json
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\GitHubIssueClassification.runtimeconfig.dev.json
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\GitHubIssueClassification.dll
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.csprojAssemblyReference.cache
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.csproj.CoreCompileInputs.cache
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.AssemblyInfoInputs.cache
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.AssemblyInfo.cs
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\Data\issues_test.tsv
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\Data\issues_train.tsv
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\bin\Debug\netcoreapp2.2\GitHubIssueClassification.pdb
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.dll
+C:\DotnetCore\ML\GitHubIssueClassification\GitHubIssueClassification\obj\Debug\netcoreapp2.2\GitHubIssueClassification.pdb
